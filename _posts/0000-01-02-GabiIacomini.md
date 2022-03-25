@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide"
 ---
-Muy bueno el GitHub
+Es muy interesante poder aprender esto
